@@ -24,12 +24,9 @@ paginate: 5
 
 # MatJek specific configurations
 github_profile: "https://github.com/ShawnTeoh"
-user: "John Doe"
-user_email: "john@doe.com"
-contact_url: "https://goo.gl/tVljbV"
-google_tracking_id: "UA-96359860-1"
-google_site_verification: "UA-96359860-1"
-disqus_shortname: "matjek"
+user: "PJS"
+user_email: "wjdtjq9655@gmail.com"
+disqus_shortname: "PJS"
 
 # Build settings
 markdown: kramdown
